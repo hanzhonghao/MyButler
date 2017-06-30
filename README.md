@@ -26,6 +26,9 @@
 http://blog.csdn.net/fighting_boss/article/details/73942384
 
 - 下边先一个整体的演示，之后是运行的截图
+
+
+
 ![image](https://github.com/hanzhonghao/MyButler/raw/master/screenshots/MybulterEnd.gif)
 ![image](https://github.com/hanzhonghao/MyButler/raw/master/screenshots/3.png)
 ![image](https://github.com/hanzhonghao/MyButler/raw/master/screenshots/4.png)
